@@ -1,5 +1,5 @@
 # flipthatcoin-android
-A simple coin flipping simulator with two modes.
+A dual-mode coin flipping simulator with GUI.
 
 ## Summary
 This is a basic coin flipping tool with two modes: "single", and "best 2 of 3".
